@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  color: white;
+  font-family: Arial;
+
+  background: url('logo.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: rgba(0,0,0,0.6);
+}
